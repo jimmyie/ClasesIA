@@ -1,2 +1,2 @@
 # ClasesIA
-Programas de practica
+Programas de práctica
